@@ -1,0 +1,1 @@
+module.exports = "***YOUR 12 WORD SEE HERE***"
