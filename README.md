@@ -1,1 +1,1 @@
-# FinTech-Take-Home
+Financial Technology and Cryptocurrencies Exam Q1
